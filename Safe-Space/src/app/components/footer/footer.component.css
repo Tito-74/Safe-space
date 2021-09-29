@@ -1,0 +1,11 @@
+.jumbotron{
+    margin-top: 2rem;
+}
+.fas {
+    color: red;
+    font-size: larger;
+ }
+ .social{
+     display: flex;
+     flex-direction: column;
+ }
