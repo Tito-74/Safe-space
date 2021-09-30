@@ -1,0 +1,43 @@
+body{
+    background-color: ;
+
+}
+.content{
+    height: 150px;
+    background-color: blueviolet;
+}
+.block-one{
+    width: 400px;
+
+    
+}
+.block-two{
+    width: 550px;
+    
+}
+
+.block-three{
+    width: 700px;
+    
+}
+.block-four{
+    width: 800px;
+    
+}
+.content-one{
+    position: relative;
+    margin-right: 0;
+}
+.content-two{
+    z-index: 2;
+    margin-left:27%;
+    top: -20%;
+    
+}
+.row{
+    display: flex;
+}
+button{
+    /* margin-top: 5rem;
+    margin-left: 4rem; */
+}
