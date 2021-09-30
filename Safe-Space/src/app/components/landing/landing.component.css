@@ -1,10 +1,10 @@
-body{
-    background-color: ;
+/* .container{
+    background-color: #d49a11;
 
-}
+} */
 .content{
     height: 150px;
-    background-color: blueviolet;
+    background-color: #d1ccc0;
 }
 .block-one{
     width: 400px;
@@ -36,8 +36,10 @@ body{
 }
 .row{
     display: flex;
+    background-color: #f8f8f8;
 }
 button{
+    background-color: #d49a11;
     /* margin-top: 5rem;
     margin-left: 4rem; */
 }

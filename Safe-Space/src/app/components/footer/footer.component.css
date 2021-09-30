@@ -1,5 +1,6 @@
 .jumbotron{
-    margin-top: 2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 .fas {
     color: red;
@@ -9,3 +10,6 @@
      display: flex;
      flex-direction: column;
  }
+ .row{
+    background-color: #d1ccc0;
+}
