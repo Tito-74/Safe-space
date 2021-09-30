@@ -30,13 +30,13 @@
 }
 .content-two{
     z-index: 2;
-    margin-left:27%;
+    margin-left:-15%;
     top: -20%;
     
 }
 .row{
     display: flex;
-    background-color: #f8f8f8;
+    background-color:#78949b;
 }
 button{
     background-color: #d49a11;
