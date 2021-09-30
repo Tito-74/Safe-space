@@ -1,0 +1,11 @@
+span{
+    padding: 10px;
+    color: rgb(42, 59, 59);
+}
+.navbar-brand{
+    display: flex;
+}
+.navbar-nav{
+    text-align: center;
+    color: aqua;
+}
