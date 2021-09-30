@@ -12,7 +12,7 @@ report!:string;
   }
 
   getReport(){
-    return this.http.get("https://cors-anywhere.safespacebackendgp.herokuapp.com/reports/")
+    return this.http.get("https://safespacebackendgp.herokuapp.com/reports/")
     .pipe(((response: any) => response));
   }
 }
