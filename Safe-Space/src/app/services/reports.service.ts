@@ -11,7 +11,7 @@ report!:string;
    
   }
 
-  getProfile(report:any){
+  getReport(report:any){
     return this.http.get("")
     .pipe(((response: any) => response));
   }
