@@ -36,7 +36,7 @@
 }
 .row{
     display: flex;
-    background-color:#78949b;
+    /* background-color:#78949b; */
 }
 button{
     background-color: #d49a11;
